@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xtUtLlgqK/+2BpayjFazjpzGV/NWCwoQjKxV8basJSY=",
+  "Source": "FUD.Services.AuthAPI",
+  "BasePath": "_content/FUD.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

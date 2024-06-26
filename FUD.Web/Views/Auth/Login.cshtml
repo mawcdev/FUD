@@ -1,0 +1,28 @@
+﻿@model LoginRequestDto
+
+<form asp-action="Login">
+    <br />
+    <div class="container border p-4">
+        <div class="row text-center">
+            <h1 class="text-white">Login</h1>
+        </div>
+        <div class="row text-center">
+            <div asp-validation-summary="All" class="danger"></div>
+        </div>
+
+        <hr />
+        <div class="row">
+            <div class="col-md-6 offset-md-3 pb-2">
+                <input asp-for="UserName" class="form-control" placeholder="Username..." />
+                @* <span asp-validation-for="UserName" class="text-danger"></span> *@
+            </div>
+            <div class="col-md-6 offset-md-3 pb-2">
+                <input asp-for="Password" class="form-control" type="password" placeholder="Password..." />
+                @* <span asp-validation-for="Password" class="text-danger"></span> *@
+            </div>
+            <div class="col-md-6 offset-md-3 pb-2">
+                <input type="submit" value="Login" class="btn btn-success form-control" />
+            </div>
+        </div>
+    </div>
+</form>

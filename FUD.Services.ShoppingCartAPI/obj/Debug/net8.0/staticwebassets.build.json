@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C0GSp7C7gHX4q5OTquq98w5MrV7CJR3ypFsWuXN3pGI=",
+  "Source": "FUD.Services.ShoppingCartAPI",
+  "BasePath": "_content/FUD.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8438FC28-66B2-4FE1-A954-F75C77F38B93}|FUD.Services.ShoppingCartAPI\\FUD.Services.ShoppingCartAPI.csproj|solutionrelative:fud.services.shoppingcartapi\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\coupon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\coupon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E055BF83-4D37-4511-B4FA-1EB5985AAD91}|FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj|solutionrelative:fud.services.productapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\fud.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\fud.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565D149-0E61-4FB8-AA94-C6CD1A5EE4A3}|FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj|solutionrelative:fud.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\services\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\services\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\services\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\services\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\iservices\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\iservices\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19B343FB-38F4-4EF9-AFB6-3704EB1077B0}|FUD.Web\\FUD.Web.csproj|solutionrelative:fud.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|c:\\users\\marcl\\documents\\projects\\.net\\.net core\\fud\\fud.services.authapi\\fud.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7C8E6B1-0093-4B7E-BBE7-3FF9C71754D9}|FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj|solutionrelative:fud.services.authapi\\fud.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:23:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T04:15:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:10:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:10:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:09:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:07:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:05:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:34:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:08:41.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:34:39.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:08:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T10:34:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\CartDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:05:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:04:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:01:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "FUD.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:01:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T03:37:15.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:44:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\IServices\\ICouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:52:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\ProductDto.cs",
+              "RelativeToolTip": "FUD.Web\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:53:25.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\ProductService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:53:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Coupon\\Create.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Coupon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Coupon\\Create.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Coupon\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:42:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:57:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:48:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FUD.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:24:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T03:23:18.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CouponController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\CouponController.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Controllers\\CouponController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\CouponController.cs",
+              "RelativeToolTip": "FUD.Web\\Controllers\\CouponController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:29:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:50:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FUD.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:57:15.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:53:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Coupon\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Coupon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Coupon\\Index.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Coupon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T14:33:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:52:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAlwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:55:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\CouponService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\CouponService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:22:36.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:55:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:56:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Utilities\\SD.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Utilities\\SD.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Utilities\\SD.cs",
+              "RelativeToolTip": "FUD.Web\\Utilities\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:24:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:56:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240625121338_productAPI.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Migrations\\20240625121338_productAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:13:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Services\\AuthService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:41:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:59:25.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:57:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T11:56:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "FUD.Services.ProductAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:56:09.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\BaseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwB4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:22:34.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\AuthService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\AuthService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:27:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FUD.Services.CouponAPI",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T10:12:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "FUD.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "FUD.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:21:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T15:05:26.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Services\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\IService\\IAuthService.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Services\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:57:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:51:37.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:28:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\TokenProvider.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\TokenProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:45:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Services\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Services\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Services\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:52:05.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\IServices\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\ITokenProvider.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\IServices\\ITokenProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:44:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\RequestDto.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Models\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\RequestDto.cs",
+              "RelativeToolTip": "FUD.Web\\Models\\RequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:24:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:34:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "FUD.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "FUD.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T05:44:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Models\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\LoginRequestDto.cs",
+              "RelativeToolTip": "FUD.Web\\Models\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:21:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Services\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "FUD.Web\\Services\\IServices\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:25:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Models\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "FUD.Web\\Models\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:24:04.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "FUD.Web\\Models\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Models\\CouponDto.cs",
+              "RelativeToolTip": "FUD.Web\\Models\\CouponDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:21:44.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:16:01.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:41:44.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FUD.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FUD.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T10:13:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:12:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FUD.Services.AuthAPI",
+              "DocumentMoniker": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj",
+              "RelativeDocumentMoniker": "FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj",
+              "ToolTip": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj",
+              "RelativeToolTip": "FUD.Services.AuthAPI\\FUD.Services.AuthAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T10:12:12.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
