@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "H3d24Jv7hfjircVpyTXaDghmkDiuNCWkD3QuZJ65roQ=",
+  "Source": "FUD.Services.RewardAPI",
+  "BasePath": "_content/FUD.Services.RewardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\FUD.Services.ProductAPI.csproj",
+      "Version": 2,
+      "Source": "FUD.Services.ProductAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FUD.Services.ProductAPI\\wwwroot",
+      "Source": "FUD.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/FUD.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "SourceId": "FUD.Services.ProductAPI",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/FUD.Services.ProductAPI",
+      "RelativePath": "ProductImages/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\1.jpg"
+    }
+  ]
+}

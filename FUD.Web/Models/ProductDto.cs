@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using FUD.Web.Utilities;
+using System.ComponentModel.DataAnnotations;
 
 namespace FUD.Web.Models
 {
@@ -14,10 +15,13 @@ namespace FUD.Web.Models
         public string Description { get; set; }
 
         public string CategoryName { get; set; }
-        
-        public string ImageUrl { get; set; }
+        public string? ImageUrl { get; set; }
+        public string? ImageLocalPath { get; set; }
 
         [Range(1, 100)]
         public int Count { get; set; } = 1;
+        [MaxFileSize(1)]
+        [AllowedExtensions([ ".jpg", ".png"])]
+        public IFormFile? Image { get; set; }
     }
 }

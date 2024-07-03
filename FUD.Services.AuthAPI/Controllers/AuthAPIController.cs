@@ -1,4 +1,5 @@
-﻿using FUD.Services.AuthAPI.Data;
+﻿using FUD.MessageBus;
+using FUD.Services.AuthAPI.Data;
 using FUD.Services.AuthAPI.Models;
 using FUD.Services.AuthAPI.Models.Dto;
 using FUD.Services.AuthAPI.Services.IService;
@@ -28,7 +29,6 @@ namespace FUD.Services.AuthAPI.Controllers
                 if (userDto != null)
                 {
                     var result = await _authService.Register(userDto);
-
                     if (!string.IsNullOrEmpty(result))
                     {
                         _response.IsSuccess = false;

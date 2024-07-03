@@ -17,7 +17,8 @@ namespace FUD.Web.Services
             {
                 ApiType = SD.ApiType.POST,
                 Data = product,
-                Url = SD.ProductAPIBase + "/api/product"
+                Url = SD.ProductAPIBase + "/api/product",
+                ContentType = SD.ContentType.MultipartFormData
             });
         }
 
@@ -54,7 +55,8 @@ namespace FUD.Web.Services
             {
                 ApiType = SD.ApiType.PUT,
                 Data = product,
-                Url = SD.ProductAPIBase + "/api/product/" + product.Id
+                Url = SD.ProductAPIBase + "/api/product/" + product.Id,
+				ContentType = SD.ContentType.MultipartFormData
 			});
         }
     }

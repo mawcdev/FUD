@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4goWmufqav0ckBPxqqJCbF+vT10r/rbgNveQ0TCRB0Q=",
+  "Source": "FUD.Services.OrderAPI",
+  "BasePath": "_content/FUD.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

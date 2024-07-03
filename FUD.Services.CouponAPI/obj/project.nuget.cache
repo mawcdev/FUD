@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2iKIblYkSVA=",
+  "dgSpecHash": "u7ppZdhqHBg=",
   "success": true,
   "projectFilePath": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.CouponAPI\\FUD.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
@@ -133,6 +133,7 @@
     "C:\\Users\\marcl\\.nuget\\packages\\nuget.projectmodel\\6.9.1\\nuget.projectmodel.6.9.1.nupkg.sha512",
     "C:\\Users\\marcl\\.nuget\\packages\\nuget.protocol\\6.9.1\\nuget.protocol.6.9.1.nupkg.sha512",
     "C:\\Users\\marcl\\.nuget\\packages\\nuget.versioning\\6.9.1\\nuget.versioning.6.9.1.nupkg.sha512",
+    "C:\\Users\\marcl\\.nuget\\packages\\stripe.net\\45.1.0\\stripe.net.45.1.0.nupkg.sha512",
     "C:\\Users\\marcl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\marcl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\marcl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

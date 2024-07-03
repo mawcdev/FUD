@@ -1,3 +1,4 @@
+using FUD.MessageBus;
 using FUD.Services.AuthAPI.Data;
 using FUD.Services.AuthAPI.Models;
 using FUD.Services.AuthAPI.Services;
@@ -19,6 +20,7 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFramework
     .AddDefaultTokenProviders();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
+builder.Services.AddScoped<IMessageBus, MessageBus>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

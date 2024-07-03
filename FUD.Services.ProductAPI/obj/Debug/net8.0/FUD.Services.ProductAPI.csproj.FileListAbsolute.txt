@@ -259,3 +259,5 @@ C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\obj
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\obj\Debug\net8.0\FUD.Services.ProductAPI.pdb
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\obj\Debug\net8.0\FUD.Services.ProductAPI.genruntimeconfig.cache
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\obj\Debug\net8.0\ref\FUD.Services.ProductAPI.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\obj\Debug\net8.0\FUD.Services.ProductAPI.sourcelink.json
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.ProductAPI\bin\Debug\net8.0\FUD.Services.ProductAPI.staticwebassets.runtime.json

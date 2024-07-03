@@ -63,6 +63,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+Stripe.StripeConfiguration.ApiKey = builder.Configuration.GetValue<string>("Stripe:ApiKey").ToString();
 
 app.UseHttpsRedirection();
 app.UseAuthentication();

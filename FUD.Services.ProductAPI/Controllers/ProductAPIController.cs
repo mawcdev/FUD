@@ -102,7 +102,32 @@ namespace FUD.Services.ProductAPI.Controllers
                 var obj = _context.Products.First(cp => cp.Id == id);
                 if (obj != null)
                 {
-                    _mapper.Map(product, obj);
+					if (product.Image != null)
+					{
+						if (!string.IsNullOrEmpty(product.ImageLocalPath))
+						{
+							var oldFilePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), product.ImageLocalPath);
+							FileInfo file = new FileInfo(oldFilePathDirectory);
+							if (file.Exists)
+							{
+								file.Delete();
+							}
+						}
+
+						string fileName = obj.Id + Path.GetExtension(product.Image.FileName);
+						string filePath = @"wwwroot\ProductImages\" + fileName;
+						var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
+						using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
+						{
+							product.Image.CopyTo(fileStream);
+						}
+						var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
+						product.ImageUrl = baseUrl + "/ProductImages/" + fileName;
+						product.ImageLocalPath = filePath;
+					}
+
+
+					_mapper.Map(product, obj);
                     _context.Entry(obj).State = EntityState.Modified;
                 }
                 else
@@ -144,7 +169,38 @@ namespace FUD.Services.ProductAPI.Controllers
                 var obj = _mapper.Map<Product>(product);
                 _context.Products.Add(obj);
                 _context.SaveChanges();
-                _response.Result = _mapper.Map<ProductDto>(obj);
+
+				if (product.Image != null)
+				{
+
+					string fileName = product.Id + Path.GetExtension(product.Image.FileName);
+					string filePath = @"wwwroot\ProductImages\" + fileName;
+
+					//I have added the if condition to remove the any image with same name if that exist in the folder by any change
+					var directoryLocation = Path.Combine(Directory.GetCurrentDirectory(), filePath);
+					FileInfo file = new FileInfo(directoryLocation);
+					if (file.Exists)
+					{
+						file.Delete();
+					}
+
+					var filePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), filePath);
+					using (var fileStream = new FileStream(filePathDirectory, FileMode.Create))
+					{
+						product.Image.CopyTo(fileStream);
+					}
+					var baseUrl = $"{HttpContext.Request.Scheme}://{HttpContext.Request.Host.Value}{HttpContext.Request.PathBase.Value}";
+					obj.ImageUrl = baseUrl + "/ProductImages/" + fileName;
+					obj.ImageLocalPath = filePath;
+				}
+				else
+				{
+					product.ImageUrl = "https://placehold.co/600x400";
+				}
+				_context.Products.Update(obj);
+				_context.SaveChanges();
+
+				_response.Result = _mapper.Map<ProductDto>(obj);
             }
             catch (Exception ex)
             {
@@ -167,8 +223,16 @@ namespace FUD.Services.ProductAPI.Controllers
                     _response.IsSuccess = false;
                     _response.Message = "NotFound";
                 }
-
-                _context.Products.Remove(product);
+				if (!string.IsNullOrEmpty(product.ImageLocalPath))
+				{
+					var oldFilePathDirectory = Path.Combine(Directory.GetCurrentDirectory(), product.ImageLocalPath);
+					FileInfo file = new FileInfo(oldFilePathDirectory);
+					if (file.Exists)
+					{
+						file.Delete();
+					}
+				}
+				_context.Products.Remove(product);
                 _context.SaveChanges();
             }
             catch (Exception ex)

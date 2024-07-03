@@ -151,6 +151,17 @@ namespace FUD.Services.CouponAPI.Controllers
                 var obj = _mapper.Map<Coupon>(coupon);
                 _context.Coupons.Add(obj);
                 _context.SaveChanges();
+
+                var options = new Stripe.CouponCreateOptions
+                {
+                    AmountOff = (long)(coupon.DiscountAmount * 100),
+                    Name = coupon.Code,
+                    Currency = "usd",
+                    Id = coupon.Code
+                };
+                var service = new Stripe.CouponService();
+                service.Create(options);
+
                 _response.Result = _mapper.Map<CouponDto>(obj);
             }
             catch(Exception ex)
@@ -177,8 +188,12 @@ namespace FUD.Services.CouponAPI.Controllers
 
                 _context.Coupons.Remove(coupon);
                 _context.SaveChanges();
+
+                var service = new Stripe.CouponService();
+                service.Delete(coupon.Code);
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 _response.IsSuccess = false;
                 _response.Message = ex.Message;

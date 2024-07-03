@@ -259,3 +259,5 @@ C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\bin\
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\obj\Debug\net8.0\FUD.Services.CouponAPI.sourcelink.json
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Services.CouponAPI\bin\Debug\net8.0\Stripe.net.dll

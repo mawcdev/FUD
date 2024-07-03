@@ -8,7 +8,7 @@ namespace FUD.Services.ShoppingCartAPI
     {
         public MappingConfig()
         {
-            CreateMap<CartDetails, CartDetails>().ReverseMap();
+            CreateMap<CartDetails, CartDetailsDto>().ReverseMap();
             CreateMap<CartHeader, CartHeaderDto>().ReverseMap();
         }
     }

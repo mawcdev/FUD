@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\images\\mango.png",
+      "PackagePath": "staticwebassets\\images\\mango.png"
+    },
+    {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\images\\order.PNG",
+      "PackagePath": "staticwebassets\\images\\order.PNG"
+    },
+    {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -8431,6 +8443,14 @@
     {
       "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\lib\\dataTables\\1.13.4\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\dataTables\\1.13.4\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\lib\\dataTables\\1.13.4\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\dataTables\\1.13.4\\js\\jquery.dataTables.min.js"
     },
     {
       "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

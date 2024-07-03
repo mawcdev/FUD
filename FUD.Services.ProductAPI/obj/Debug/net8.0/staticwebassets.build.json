@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "FZ1vrczGGPgfcf6jQzCZFJQVvq2Ynio7FOJ4JCABD9Y=",
+  "Hash": "EU5HFnVAEg3NS0LDc8pCpuWZVOreDJR52OrwyOkHDs8=",
   "Source": "FUD.Services.ProductAPI",
   "BasePath": "_content/FUD.Services.ProductAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FUD.Services.ProductAPI\\wwwroot",
+      "Source": "FUD.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/FUD.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "SourceId": "FUD.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/FUD.Services.ProductAPI",
+      "RelativePath": "ProductImages/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\1.jpg"
+    }
+  ]
 }

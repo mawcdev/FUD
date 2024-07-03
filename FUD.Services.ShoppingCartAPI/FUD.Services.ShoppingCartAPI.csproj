@@ -19,8 +19,11 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
 
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FUD.MessageBus\FUD.MessageBus.csproj" />
   </ItemGroup>
 
 </Project>

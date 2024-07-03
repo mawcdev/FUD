@@ -1,4 +1,5 @@
-﻿using FUD.Services.AuthAPI.Data;
+﻿using FUD.MessageBus;
+using FUD.Services.AuthAPI.Data;
 using FUD.Services.AuthAPI.Models;
 using FUD.Services.AuthAPI.Models.Dto;
 using FUD.Services.AuthAPI.Services.IService;
@@ -14,13 +15,17 @@ namespace FUD.Services.AuthAPI.Services
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IJwtTokenGenerator _tokenGenerator;
         private readonly RoleManager<IdentityRole> _roleManager;
-        public AuthService(AppDbContext context, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, IJwtTokenGenerator tokenGenerator, RoleManager<IdentityRole> roleManager)
+        private readonly IMessageBus _messageBus;
+        private readonly IConfiguration _configuration;
+        public AuthService(AppDbContext context, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, IJwtTokenGenerator tokenGenerator, RoleManager<IdentityRole> roleManager, IMessageBus messageBus, IConfiguration configuration)
         {
             _context = context;
             _userManager = userManager;
             _signInManager = signInManager;
             _tokenGenerator = tokenGenerator;
             _roleManager = roleManager;
+            _messageBus = messageBus;
+            _configuration = configuration;
         }
 
         public async Task<bool> AssignRole(string email, string roleName)
@@ -99,6 +104,7 @@ namespace FUD.Services.AuthAPI.Services
                         Name = userToReturn.Name,
                         PhoneNumber = userToReturn.PhoneNumber
                     };
+                    await _messageBus.PublishMessage(userDto, _configuration.GetValue<string>("TopicAndQueueNames:EmailNewUser"));
 
                     return "";
                 }

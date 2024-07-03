@@ -1,0 +1,13 @@
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\bin\Debug\net8.0\FUD.MessageBus.deps.json
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\bin\Debug\net8.0\FUD.MessageBus.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\bin\Debug\net8.0\FUD.MessageBus.pdb
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.csproj.AssemblyReference.cache
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.AssemblyInfoInputs.cache
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.AssemblyInfo.cs
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.sourcelink.json
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\refint\FUD.MessageBus.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\FUD.MessageBus.pdb
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.MessageBus\obj\Debug\net8.0\ref\FUD.MessageBus.dll

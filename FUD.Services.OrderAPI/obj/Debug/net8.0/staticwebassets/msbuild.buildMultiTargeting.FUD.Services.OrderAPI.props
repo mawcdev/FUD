@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FUD.Services.OrderAPI.props" />
+</Project>

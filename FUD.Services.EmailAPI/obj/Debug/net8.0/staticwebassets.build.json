@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/S8uoEIFN+fdxuLXSSKGdJO7J3EdJDJHVvh8lhsOjwA=",
+  "Source": "FUD.Services.EmailAPI",
+  "BasePath": "_content/FUD.Services.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

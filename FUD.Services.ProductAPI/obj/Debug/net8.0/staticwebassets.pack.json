@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marcl\\Documents\\Projects\\.net\\.net core\\FUD\\FUD.Services.ProductAPI\\wwwroot\\ProductImages\\1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FUD.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FUD.Services.ProductAPI.props",
+      "PackagePath": "build\\FUD.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FUD.Services.ProductAPI.props",
+      "PackagePath": "buildMultiTargeting\\FUD.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FUD.Services.ProductAPI.props",
+      "PackagePath": "buildTransitive\\FUD.Services.ProductAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

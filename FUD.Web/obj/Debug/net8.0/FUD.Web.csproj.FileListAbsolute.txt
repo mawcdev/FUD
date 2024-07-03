@@ -36,3 +36,4 @@ C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Web\bin\Debug\net8.0\Mi
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marcl\Documents\Projects\.net\.net core\FUD\FUD.Web\obj\Debug\net8.0\FUD.Web.sourcelink.json
