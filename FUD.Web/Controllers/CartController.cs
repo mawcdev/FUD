@@ -48,7 +48,7 @@ namespace FUD.Web.Controllers
                 var domain = Request.Scheme + "://" + Request.Host.Value + "/";
                 StripeRequestDto stripeRequestDto = new()
                 {
-                    ApproveUrl = domain + "cart/Confirmation?orderId=" + orderHeaderDto.Id,
+                        ApproveUrl = domain + "cart/Confirmation?orderId=" + orderHeaderDto.Id,
                     CancelUrl = domain + "cart/checkout",
                     OrderHeader = orderHeaderDto
                 };

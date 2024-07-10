@@ -50,17 +50,19 @@ builder.Services.AddSwaggerGen(option =>
 });
 builder.AddAppAuthentication();
 builder.Services.AddAuthorization();
+bool useHttps = Convert.ToBoolean(builder.Configuration["Https:Enabled"]);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
+//}
+if (useHttps)
+{
+    app.UseHttpsRedirection();
 }
-
-app.UseHttpsRedirection();
-
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseStaticFiles();

@@ -21,15 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.Services.ProductAPI", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.Services.ShoppingCartAPI", "FUD.Services.ShoppingCartAPI\FUD.Services.ShoppingCartAPI.csproj", "{8438FC28-66B2-4FE1-A954-F75C77F38B93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUD.MessageBus", "FUD.MessageBus\FUD.MessageBus.csproj", "{66C170C0-DC69-4561-B232-6FF3508BC7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.MessageBus", "FUD.MessageBus\FUD.MessageBus.csproj", "{66C170C0-DC69-4561-B232-6FF3508BC7BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUD.Services.EmailAPI", "FUD.Services.EmailAPI\FUD.Services.EmailAPI.csproj", "{D73F009F-29B1-488D-A573-4CDFF181BE3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.Services.EmailAPI", "FUD.Services.EmailAPI\FUD.Services.EmailAPI.csproj", "{D73F009F-29B1-488D-A573-4CDFF181BE3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUD.Services.OrderAPI", "FUD.Services.OrderAPI\FUD.Services.OrderAPI.csproj", "{36B96E2F-D4ED-4FCD-8871-8A669E2783BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.Services.OrderAPI", "FUD.Services.OrderAPI\FUD.Services.OrderAPI.csproj", "{36B96E2F-D4ED-4FCD-8871-8A669E2783BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUD.Services.RewardAPI", "FUD.Services.RewardAPI\FUD.Services.RewardAPI.csproj", "{C9BF1417-B663-4F59-9EF6-ABFA5734A357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.Services.RewardAPI", "FUD.Services.RewardAPI\FUD.Services.RewardAPI.csproj", "{C9BF1417-B663-4F59-9EF6-ABFA5734A357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUD.GatewaySolution", "FUD.GatewaySolution\FUD.GatewaySolution.csproj", "{C8E6ADCF-86F7-4CC2-9022-6E1DFB0E2251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FUD.GatewaySolution", "FUD.GatewaySolution\FUD.GatewaySolution.csproj", "{C8E6ADCF-86F7-4CC2-9022-6E1DFB0E2251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

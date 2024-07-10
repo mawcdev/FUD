@@ -3,11 +3,11 @@
     //product
     {
       "DownstreamPathTemplate": "/api/product",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7000
+          "Port": 7010
         }
       ],
       "UpstreamPathTemplate": "/api/product",
@@ -15,11 +15,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/product/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7000
+          "Port": 7010
         }
       ],
       "UpstreamPathTemplate": "/api/product/{id}",
@@ -27,11 +27,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/product",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7000
+          "Port": 7010
         }
       ],
       "UpstreamPathTemplate": "/api/product",
@@ -39,11 +39,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/product/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7000
+          "Port": 7010
         }
       ],
       "UpstreamPathTemplate": "/api/product/{id}",
@@ -51,11 +51,11 @@
     },
     {
       "DownstreamPathTemplate": "/api/product/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7000
+          "Port": 7010
         }
       ],
       "UpstreamPathTemplate": "/api/product/{id}",
